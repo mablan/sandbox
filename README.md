@@ -1,6 +1,6 @@
 ## Probando GhA
 
-```{mermaid}
+```mermaid
 flowchart LR
   A[Hard edge] --> B(Round edge)
   B --> C{Decision}
