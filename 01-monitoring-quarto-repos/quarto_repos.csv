@@ -1,12 +1,12 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6001,457,1878
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,645,62,404
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,532,21,5
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,405,1016,34
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,287,64,39
-q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,249,16,46
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,6002,457,1877
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,645,62,405
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,531,21,5
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,405,1017,33
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,288,64,39
+q2,https://github.com/quarto-dev/q2,q2 is the experimental implementation of Quarto 2 in Rust.,254,17,45
 shinylive,https://github.com/quarto-ext/shinylive,Quarto extension to embed Shinylive for Python applications,175,11,44
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,161,29,43
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,161,29,42
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,156,18,16
 fontawesome,https://github.com/quarto-ext/fontawesome,Use Font Awesome icons in HTML and PDF documents.,149,12,12
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,112,12,0
@@ -33,8 +33,8 @@ attribution,https://github.com/quarto-ext/attribution,Display attribution text s
 bluesky-comments,https://github.com/quarto-ext/bluesky-comments,A Quarto Shortcode Extension to Embed Comments from Bluesky,21,2,5
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,17,1,7
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,16,1,5
+fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,15,1,0
 jasa,https://github.com/quarto-journals/jasa,Quarto template for the American Statistical Association Journals,15,8,1
-fancy-text,https://github.com/quarto-ext/fancy-text,Output nicely formatted versions of fancy strings such as LaTeX and BibTeX in multiple formats.,14,1,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,10,1,2
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,9,2,2
 orange-book,https://github.com/quarto-ext/orange-book,quarto extension for typst orange book,7,1,3
